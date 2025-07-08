@@ -1,0 +1,8 @@
+Wallet,Platform(s),Native Staking,NFT Handling,dApp Support,Multi-sig/Hardware,Solana Pay-QR,Notables
+Phantom,"Ext, Mobile",✅,✅,✅,Ledger support,✅,Multisig in development
+Solflare,"Web, Ext, Mobile",✅,✅,✅,✅,✅,"Keystone, debit card upcoming"
+Slope,Mobile,⬜,✅,✅,❌,✅,"Mobile-first, fast UI"
+Glow,iOS,⬜,✅,✅,❌,✅,Safari/iOS integrated
+Exodus,"Desktop, Mobile",✅,⬜,❌,Trezor via desktop,✅,"Multi-chain, clean mobile UX"
+Trust Wallet,"Ext, Mobile",⬜,✅,✅,❌,✅,Simple and broad access
+Ledger,Hardware,✅,✅,✅ (via apps),✅,❌,"High security, needs external app"

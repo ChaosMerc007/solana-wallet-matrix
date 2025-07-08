@@ -1,0 +1,72 @@
+[
+  {
+    "Wallet":"Phantom",
+    "Platform(s)":"Ext, Mobile",
+    "Native Staking":"\u2705",
+    "NFT Handling":"\u2705",
+    "dApp Support":"\u2705",
+    "Multi-sig\/Hardware":"Ledger support",
+    "Solana Pay-QR":"\u2705",
+    "Notables":"Multisig in development"
+  },
+  {
+    "Wallet":"Solflare",
+    "Platform(s)":"Web, Ext, Mobile",
+    "Native Staking":"\u2705",
+    "NFT Handling":"\u2705",
+    "dApp Support":"\u2705",
+    "Multi-sig\/Hardware":"\u2705",
+    "Solana Pay-QR":"\u2705",
+    "Notables":"Keystone, debit card upcoming"
+  },
+  {
+    "Wallet":"Slope",
+    "Platform(s)":"Mobile",
+    "Native Staking":"\u2b1c",
+    "NFT Handling":"\u2705",
+    "dApp Support":"\u2705",
+    "Multi-sig\/Hardware":"\u274c",
+    "Solana Pay-QR":"\u2705",
+    "Notables":"Mobile-first, fast UI"
+  },
+  {
+    "Wallet":"Glow",
+    "Platform(s)":"iOS",
+    "Native Staking":"\u2b1c",
+    "NFT Handling":"\u2705",
+    "dApp Support":"\u2705",
+    "Multi-sig\/Hardware":"\u274c",
+    "Solana Pay-QR":"\u2705",
+    "Notables":"Safari\/iOS integrated"
+  },
+  {
+    "Wallet":"Exodus",
+    "Platform(s)":"Desktop, Mobile",
+    "Native Staking":"\u2705",
+    "NFT Handling":"\u2b1c",
+    "dApp Support":"\u274c",
+    "Multi-sig\/Hardware":"Trezor via desktop",
+    "Solana Pay-QR":"\u2705",
+    "Notables":"Multi-chain, clean mobile UX"
+  },
+  {
+    "Wallet":"Trust Wallet",
+    "Platform(s)":"Ext, Mobile",
+    "Native Staking":"\u2b1c",
+    "NFT Handling":"\u2705",
+    "dApp Support":"\u2705",
+    "Multi-sig\/Hardware":"\u274c",
+    "Solana Pay-QR":"\u2705",
+    "Notables":"Simple and broad access"
+  },
+  {
+    "Wallet":"Ledger",
+    "Platform(s)":"Hardware",
+    "Native Staking":"\u2705",
+    "NFT Handling":"\u2705",
+    "dApp Support":"\u2705 (via apps)",
+    "Multi-sig\/Hardware":"\u2705",
+    "Solana Pay-QR":"\u274c",
+    "Notables":"High security, needs external app"
+  }
+]
