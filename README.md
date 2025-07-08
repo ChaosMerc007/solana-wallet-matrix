@@ -20,7 +20,7 @@ A comprehensive comparison of major Solana wallets focused on Solana Pay QR inte
 ## 🧠 Author
 
 Chaos  
-Twitter: [@yourhandle]  
-GitHub: [github.com/yourhandle]
+Twitter: [@mockors]  
+GitHub: [github.com/chaosmerc007]
 
 > Submitted July 2025 – Superteam x Venta Bounty
