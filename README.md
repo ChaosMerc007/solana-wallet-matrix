@@ -23,7 +23,7 @@ A comprehensive comparison of major Solana wallets focused on Solana Pay QR inte
 
 ## 🧠 Author
 
-Chaos  
+Divine Muoka  
 Twitter: [@mockors]  
 GitHub: [github.com/chaosmerc007]
 
